@@ -54,6 +54,23 @@ Built and analyzed a multi-country panel dataset (2000–2020) to study how chan
 - **Methods:** Fixed effects, first differences, random effects, event study.  
 - **Tools:** Python (pandas, numpy, matplotlib, seaborn, statsmodels), SQL, Excel, R.
 
+### E-Commerce Analytics Dashboard (Power BI)
+
+- Built an interactive Power BI dashboard analyzing customers, conversion funnels, revenue trends, and marketing performance  
+- Implemented a relational data model and business KPIs using DAX  
+
+[Project link](https://github.com/Aria-Mousavi/e-commerce-powerbi-dashboard)
+
+---
+
+### Customer Review Sentiment Analysis using AWS
+
+- Built an end-to-end pipeline to analyze approximately 180 German-language customer reviews using AWS text services  
+- Applied AWS Translate and AWS Comprehend to extract sentiment and recurring themes from customer reviews  
+
+**Tools:** Python, AWS S3, AWS Translate, AWS Comprehend  
+[Project link](https://github.com/Aria-Mousavi/refurbed-review-analysis)
+
 ---
 
 ## Technical Skills
