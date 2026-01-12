@@ -52,7 +52,6 @@ Built and analyzed a multi-country panel dataset (2000–2020) to study how chan
 
 - **Methods:** Fixed effects, first differences, random effects, event study.  
 - **Tools:** Python (pandas, numpy, matplotlib, seaborn, statsmodels), SQL, Excel, R.
-
 [Project link](https://github.com/Aria-Mousavi/renewable-energy-tfp-analysis)
 
 
@@ -60,7 +59,6 @@ Built and analyzed a multi-country panel dataset (2000–2020) to study how chan
 
 - Built an interactive Power BI dashboard analyzing customers, conversion funnels, revenue trends, and marketing performance  
 - Implemented a relational data model and business KPIs using DAX  
-
 [Project link](https://github.com/Aria-Mousavi/e-commerce-powerbi-dashboard)
 
 
