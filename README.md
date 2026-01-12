@@ -52,6 +52,7 @@ Built and analyzed a multi-country panel dataset (2000–2020) to study how chan
 
 - **Methods:** Fixed effects, first differences, random effects, event study.  
 - **Tools:** Python (pandas, numpy, matplotlib, seaborn, statsmodels), SQL, Excel, R.
+
 [Project link](https://github.com/Aria-Mousavi/renewable-energy-tfp-analysis)
 
 
