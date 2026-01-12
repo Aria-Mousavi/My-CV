@@ -61,7 +61,6 @@ Built and analyzed a multi-country panel dataset (2000–2020) to study how chan
 
 [Project link](https://github.com/Aria-Mousavi/e-commerce-powerbi-dashboard)
 
----
 
 ### Customer Review Sentiment Analysis using AWS
 
