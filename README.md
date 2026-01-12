@@ -65,7 +65,7 @@ Built and analyzed a multi-country panel dataset (2000–2020) to study how chan
 
 ### Customer Review Sentiment Analysis using AWS
 
-- Built an end-to-end pipeline to analyze approximately 180 German-language customer reviews using AWS text services  
+- Built an end-to-end pipeline to analyze German-language customer reviews using AWS text services  
 - Applied AWS Translate and AWS Comprehend to extract sentiment and recurring themes from customer reviews  
 
 **Tools:** Python, AWS S3, AWS Translate, AWS Comprehend  
@@ -76,8 +76,9 @@ Built and analyzed a multi-country panel dataset (2000–2020) to study how chan
 ## Technical Skills
 
 - **Programming:** Python, SQL, R, Excel  
-- **Data Engineering:** Data Cleaning & Automation, ETL Pipelines, Pandas, DuckDB, Git (Version Control)  
-- **Visualization:** ggplot2, Matplotlib, Power BI  
+- **Data Engineering & Cloud:**  Data cleaning and automation, ETL pipelines, Pandas, DuckDB, Git (version control), serverless architectures, AWS (S3, Lambda, Athena, EventBridge), object storage, programmatic cloud access (boto3)
+- **Text Analytics:** Sentiment analysis, key phrase extraction, multilingual text processing  
+- **Visualization:** Power BI, Matplotlib, ggplot2
 - **Methods:** Econometrics, Regression Analysis, Causal Inference, Statistics
 
 ---
