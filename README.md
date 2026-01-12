@@ -47,7 +47,7 @@
 
 ## Projects
 
-### ** - Renewable Energy Impact Analysis (course project)**  
+### - **Renewable Energy Impact Analysis (course project)**  
 Built and analyzed a multi-country panel dataset (2000–2020) to study how changes in renewable energy share affect **Total Factor Productivity**.  
 [Project link](https://github.com/Aria-Mousavi/renewable-energy-tfp-analysis)
 
