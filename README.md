@@ -11,7 +11,7 @@
 ### **MA in Economics, Data, and Policy (Data Science Track)**  
 **Central European University (CEU), Vienna, Austria**  
 *2024–2026*  
-- CEU Master’s Excellence Scholarship (full tuition waiver €12,000/year + €10,000/year stipend).  
+- CEU Master’s Excellence Scholarship (Full merit-based tuition waiver and stipend).  
 - Expected graduation: **June 2026**.  
 - **Relevant Courses:** Causal Analysis, Data Science (Python & SQL), Data Engineering, Machine Learning, Statistics.
 
@@ -47,7 +47,13 @@
 
 ## Projects
 
-### **Renewable Energy Impact Analysis**  
+### **Machine Learning Model for High-Growth Firm Prediction  | [View project](https://github.com/Aria-Mousavi/renewable-energy-tfp-analysis)**  
+
+- Developed a classification model to identify high-potential firms (CAGR >20%) using the Bisnode financial dataset to support investment targeting.
+- Implemented a custom 1:3 Asymmetric Loss Function to minimize the financial risk of missing "unicorn" firms (False Negatives), optimizing the decision-making threshold to 0.25.
+- Conducted sector-specific analysis (Manufacturing vs. Services) to evaluate model performance across different industry landscapes.
+
+### **Renewable Energy Impact Analysis | [View project](https://github.com/Aria-Mousavi/renewable-energy-tfp-analysis)**  
 Built and analyzed a multi-country panel dataset (2000–2020) to study how changes in renewable energy share affect **Total Factor Productivity**.  
 
 - **Methods:** Fixed effects, first differences, random effects, event study.  
@@ -56,14 +62,14 @@ Built and analyzed a multi-country panel dataset (2000–2020) to study how chan
 [Project link](https://github.com/Aria-Mousavi/renewable-energy-tfp-analysis)
 
 
-### E-Commerce Analytics Dashboard (Power BI)
+### **E-Commerce Analytics Dashboard (Power BI) | [View project](https://github.com/Aria-Mousavi/e-commerce-powerbi-dashboard)**  
 
 - Built an interactive Power BI dashboard analyzing customers, conversion funnels, revenue trends, and marketing performance  
 - Implemented a relational data model and business KPIs using DAX  
 [Project link](https://github.com/Aria-Mousavi/e-commerce-powerbi-dashboard)
 
 
-### Customer Review Sentiment Analysis using AWS
+### **Customer Review Sentiment Analysis using AWS | [View project](https://github.com/Aria-Mousavi/refurbed-review-analysis)**  
 
 - Built an end-to-end pipeline to analyze German-language customer reviews using AWS text services  
 - Applied AWS Translate and AWS Comprehend to extract sentiment and recurring themes from customer reviews  
