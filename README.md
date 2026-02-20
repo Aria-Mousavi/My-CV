@@ -1,8 +1,6 @@
 # Aria Mousavi
 
-**Email:** Mousavi_Aria@student.ceu.edu  
-[**GitHub**](https://github.com/Aria-Mousavi)  
-[**LinkedIn**](https://www.linkedin.com/in/aria-mousavi/)  
+**Email:** Mousavi_Aria@student.ceu.edu | [**GitHub**](https://github.com/Aria-Mousavi) | [**LinkedIn**](https://www.linkedin.com/in/aria-mousavi/)  
 
 ---
 
