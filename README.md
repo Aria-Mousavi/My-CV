@@ -24,7 +24,7 @@
 ### **Exchange Program – International Management (BA)**  
 **FH JOANNEUM, Graz, Austria**  
 *2022–2023*  
-- Erasmus+ Grant (€9,000).
+- Erasmus+ Grant
 
 ---
 
@@ -93,7 +93,7 @@ Built and analyzed a multi-country panel dataset (2000–2020) to study how chan
 ## Soft Skills
 
 - Strong presentation and communication skills; able to translate complex analysis into simple, understandable insights.  
-  [Sample presentation link](https://github.com/Aria-Mousavi/presentation-sample-econometrics-1)
+  [View sample presentation](https://github.com/Aria-Mousavi/presentation-sample-econometrics-1)
 ---
 
 ## Languages
