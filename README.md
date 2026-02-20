@@ -47,7 +47,7 @@
 
 ## Projects
 
-### **Machine Learning Model for High-Growth Firm Prediction  | [View project](https://github.com/Aria-Mousavi/renewable-energy-tfp-analysis)**  
+### **Machine Learning Model for High-Growth Firm Prediction  | [View project](https://github.com/Aria-Mousavi/firm_growth_prediction)**  
 
 - Developed a classification model to identify high-potential firms (CAGR >20%) using the Bisnode financial dataset to support investment targeting.
 - Implemented a custom 1:3 Asymmetric Loss Function to minimize the financial risk of missing "unicorn" firms (False Negatives), optimizing the decision-making threshold to 0.25.
@@ -59,14 +59,13 @@ Built and analyzed a multi-country panel dataset (2000–2020) to study how chan
 - **Methods:** Fixed effects, first differences, random effects, event study.  
 - **Tools:** Python (pandas, numpy, matplotlib, seaborn, statsmodels)
 
-[Project link](https://github.com/Aria-Mousavi/renewable-energy-tfp-analysis)
 
 
 ### **E-Commerce Analytics Dashboard (Power BI) | [View project](https://github.com/Aria-Mousavi/e-commerce-powerbi-dashboard)**  
 
 - Built an interactive Power BI dashboard analyzing customers, conversion funnels, revenue trends, and marketing performance  
 - Implemented a relational data model and business KPIs using DAX  
-[Project link](https://github.com/Aria-Mousavi/e-commerce-powerbi-dashboard)
+
 
 
 ### **Customer Review Sentiment Analysis using AWS | [View project](https://github.com/Aria-Mousavi/refurbed-review-analysis)**  
@@ -75,17 +74,19 @@ Built and analyzed a multi-country panel dataset (2000–2020) to study how chan
 - Applied AWS Translate and AWS Comprehend to extract sentiment and recurring themes from customer reviews  
 
 **Tools:** Python, AWS S3, AWS Translate, AWS Comprehend  
-[Project link](https://github.com/Aria-Mousavi/refurbed-review-analysis)
+
 
 ---
 
 ## Technical Skills
 
-- **Programming:** Python, SQL, R, Excel  
-- **Data Engineering & Cloud:**  Data cleaning and automation, ETL pipelines, Pandas, DuckDB, Git (version control), serverless architectures, AWS (S3, Lambda, Athena, EventBridge), object storage, programmatic cloud access (boto3)
-- **Text Analytics:** Sentiment analysis, key phrase extraction, multilingual text processing  
-- **Visualization:** Power BI, Matplotlib, ggplot2
-- **Methods:** Econometrics, Regression Analysis, Causal Inference, Statistics
+
+- **Quantitative & Econometric Methods:** Panel Data Analysis (Fixed/Random Effects), Causal Inference, Event Studies, Time Series, Cost-Benefit & Risk Modeling
+- **Machine Learning:** Supervised Learning (Classification & Regression), Feature Engineering, Cost-Sensitive Learning, Risk-Adjusted Decision Modeling
+- **Programming & Analysis:** Python (Pandas, Scikit-Learn, Statsmodels), R (tidyverse, ggplot2), SQL, DuckDB, Excel
+- **Data Visualization:** PowerPoint, Power BI (DAX), Matplotlib, Seaborn
+- **Data Engineering & Workflow:** ETL Pipeline Development, Git (Version Control), Cloud Analytics (AWS: S3, Boto3, Lambda, Athena, EventBridge)
+- **Natural Language Processing (NLP):** Sentiment Analysis, Multilingual Text Processing (German/English), Unstructured Data Extraction
 
 ---
 
